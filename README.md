@@ -1,1 +1,1 @@
-# Metadata-driven Data Quality & Error Classification Engine for Lakehouse Architectures (Trino, Iceberg, ClickHouse
+# Metadata-driven Data Quality & Error Classification Engine for Lakehouse Architectures (Trino, Iceberg, ClickHouse)
