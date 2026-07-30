@@ -14,3 +14,8 @@
 
 ### Serving and Observability Layer
   1. `Grafana`
+
+## Deployment 
+Развертывание системы происходит на Windows с использованием `Docker Desktop + WSL2` и ОЗУ на `10 ГБ`. 
+### Схема системы
+<img width="956" height="1073" alt="ShemaDWH" src="https://github.com/user-attachments/assets/894ebc90-e168-4656-ae0c-d032349e7f36" />
