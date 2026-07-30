@@ -11,9 +11,9 @@
 Развертывание системы происходит на Windows с использованием `Docker Desktop + WSL2` и ОЗУ на `10 ГБ`. 
 
 ### Предварительные требования
-* Docker Desktop + WSL2 (для Windows) или Linux/macOS
-* Docker Compose `v2.x+`
-* Python 3.10+
+* `Docker Desktop` + `WSL2` (для Windows) или Linux/macOS
+* `Docker Compose v2.x+`
+* `Python 3.10+`
 
 ### Схема системы
 <img width="956" height="1073" alt="ShemaDWH" src="https://github.com/user-attachments/assets/894ebc90-e168-4656-ae0c-d032349e7f36" />
